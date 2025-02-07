@@ -1,0 +1,5 @@
+# After editing it change it's name to .env
+BOT_TOKEN="<BOT-TOKEN>"
+
+# telegram ID of the admin
+ADMIN=12345
