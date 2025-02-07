@@ -1,0 +1,1 @@
+A simple dead-end Telegram chatbot designed for asking questions anonymously (almost—except for the admin, who can view the sender's nickname and username). Code comments and message texts are in Uzbek
